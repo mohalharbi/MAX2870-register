@@ -4,8 +4,11 @@ This project provides a Python-based GUI tool for the MAX2870 frequency synthesi
 
 Features:
 1- Intuitive GUI for configuring MAX2870 registers.
+
 2- Dynamic generation of register values based on user input.
+
 3- Error handling for invalid or missing values.
+
 4- Lightweight, runs on standard Python installation without extra dependencies.
 
 Libraries Used:
