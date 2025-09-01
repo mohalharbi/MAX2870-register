@@ -20,8 +20,14 @@ The interface is built using Tkinter (Python’s standard GUI library), ensuring
 
 Tested Environment:
 
+
 1- Python version: 3.10.11 
+
+
 2- Tkinter version: 8.6
 
+
 Use Case:
+
+
 The tool is particularly useful for engineers, researchers, and students working with the MAX2870 in RF and communication system design, where quick iteration and testing of register configurations is required.
