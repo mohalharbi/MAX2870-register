@@ -13,9 +13,13 @@ Features:
 4- Lightweight, runs on standard Python installation without extra dependencies.
 
 
+
+
 Libraries Used:
 
 The interface is built using Tkinter (Python’s standard GUI library), ensuring no external dependencies are required.
+
+
 
 
 Tested Environment:
@@ -25,6 +29,8 @@ Tested Environment:
 
 
 2- Tkinter version: 8.6
+
+
 
 
 Use Case:
